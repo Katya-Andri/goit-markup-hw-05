@@ -194,7 +194,7 @@ img {
 }
 
 .btn {
-    margin: auto;
+    margin: 0 auto;
 }
 
 .sct-one-btn:hover,
@@ -655,8 +655,7 @@ img {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.svg-closs:hover,
-.svg-closs:focus {
+.svg-closs:focus-within {
     fill: #ffffff;
 }
 
