@@ -705,7 +705,6 @@ img {
 }
 
 .form-input:focus {
-    fill: #4D5AE5;
     border: 1px solid #4d5ae5;
 }
 
