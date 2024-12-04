@@ -650,6 +650,7 @@ img {
 .modal-btn:focus {
     color: #ffffff;
     background-color: #404BBF;
+    border: none; 
 }
 
 .svg-closs {
@@ -677,6 +678,7 @@ img {
 
 .form-label {
     display: block;
+    margin-bottom: 4px;
     font-weight: 400;
     font-size: 12px;
     line-height: 1.17;
@@ -757,6 +759,15 @@ img {
 
 .checkbox {
     position: relative;
+}
+
+.checkbox-label {
+    display: block;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.17;
+    letter-spacing: 0.04em;
+    color: #8e8f99;
 }
 
 .checkbox-span {
